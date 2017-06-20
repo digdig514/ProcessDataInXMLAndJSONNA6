@@ -1,0 +1,5 @@
+{"students":[
+  {"id":100,"name":"Marc", "age":24,"bursary":1245.45},
+  {"id":200,"name":"Ahmad","age":37,"bursary":1789.90}
+]
+}

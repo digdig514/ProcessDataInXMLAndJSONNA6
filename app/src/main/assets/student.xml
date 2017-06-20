@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <student>
+        <id>100</id>
+        <name>Marc</name>
+        <age>25</age>
+        <bursary>1245.45</bursary>
+    </student>
+    <student>
+        <id>200</id>
+        <name>Ahmad</name>
+        <age>37</age>
+        <bursary>1789.90</bursary>
+    </student>
+</list>
